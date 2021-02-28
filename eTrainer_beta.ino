@@ -1,3 +1,4 @@
+//This code is written by Vivek konjengbam
 int IRselect;
 int IRSensor1 = A0;
 int IRSensor2 = A1;
